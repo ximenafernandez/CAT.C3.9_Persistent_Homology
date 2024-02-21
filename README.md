@@ -1,6 +1,5 @@
 ## Persistent Homology
 ###  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
-### BIOMAT 2022
 
 Hands on: computational topology in action
 This lecture is a live-coding exposition of the use of the software Ripser to compute Persistent Homology, and some real applications with concrete data.
